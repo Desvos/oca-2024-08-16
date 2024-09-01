@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tests1",
+            "request": "launch",
+            "mainClass": "tests.constructors.Tests1",
+            "projectName": "OCA_471e959e"
+        },
+        {
+            "type": "java",
+            "name": "GenericExamples",
+            "request": "launch",
+            "mainClass": "numeric.examples.GenericExamples",
+            "projectName": "OCA_471e959e"
+        },
+        {
+            "type": "java",
+            "name": "WrapperTypes",
+            "request": "launch",
+            "mainClass": "others.WrapperTypes",
+            "projectName": "OCA_471e959e"
+        },
+        {
+            "type": "java",
+            "name": "DecimalNumericPrimitives",
+            "request": "launch",
+            "mainClass": "numeric.examples.DecimalNumericPrimitives",
+            "projectName": "OCA_471e959e"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "statics.imports.examples.Main",
